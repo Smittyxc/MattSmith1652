@@ -4,8 +4,8 @@
 
 ## Education
 - B.S., Nursing | Grand Valley State University (_April 2020_)								       		
-#- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+  - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+  - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
 **Register Nurse at Corewell Health, Progressive Care (_June 2020 - February 2023_)**
