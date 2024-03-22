@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Excel
 
 ## Education
-- BSN | Grand Valley State University (_April 2020_)
+- BSN  Grand Valley State University (_April 2020_)  
   - MNRS: 2020 Competitive Undergraduate Research Presenter
 
 ## Licensure and Certifications
@@ -13,18 +13,17 @@
 
 ## Awards
 - Glenn A. Niemeyer Award
-  - University-wide award recognizing the top academic and extracurricular performance
+  - University-wide award recognizing the top academic and extracurricular performance  
 - Mary Horan Nursing Scholar Award
 - GVSU Undergraduate Research Scholar
 - GVSU Sustainability Champion Award
 - [TEDxGVSU Presenter](https://www.youtube.com/watch?v=zpAMpxGJCoc)
 
 ## Work Experience
-**Register Nurse at Corewell Health, PCU (_June 2020 - February 2023_)**
+**Register Nurse at Corewell Health, PCU (_June 2020 - February 2023_)**  
 - Provided individualized nursing care for up to 6 patients on a 22-bed step-down unit, specializing in chronic illness exacerbation and COVID
-- Recorded emerging COVID-19 data using EHR software and participated in enrolling novel COVID-19 management trials
-
-**Register Nurse at Multicare, Progressive Care (_March 2023 - January 2024_)**
+- Recorded emerging COVID-19 data using EHR software and participated in enrolling novel COVID-19 management trials  
+**Register Nurse at Multicare, Progressive Care (_March 2023 - January 2024_)**  
 - Provided nursing care in a variety of care specialties, including post-surgical, cardiac, progressive care, palliative, and emergency departments
 - Analyzed and identified trends in patient biometrics using EHR software, activating emergency response teams when appropriate
 
