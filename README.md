@@ -1,6 +1,6 @@
 # Registered Nurse, Data Analyst
 
-  #### Technical Skills: SQL, Excel
+####     Technical Skills: SQL, Excel
 
 ## Education
 - BSN - Grand Valley State University (_April 2020_)  
