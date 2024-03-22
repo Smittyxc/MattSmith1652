@@ -29,7 +29,7 @@
   - Analyzed and identified trends in patient biometrics using EHR software, activating emergency response teams when appropriate
 
 
-## Projects
+## | Projects
 ### CMS Value-Based Programs Financial and Readmission Analysis
 [Source Code](link)
 
