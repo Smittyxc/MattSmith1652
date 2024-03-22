@@ -3,12 +3,11 @@
 #### Technical Skills: SQL, Excel
 
 ## Education
-- BSN | Grand Valley State University (_April 2020_)								       		
-  - MNRS: 2020 Competitive Undergraduate Research Presenter	 			        		
-  - B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- BSN | Grand Valley State University (_April 2020_)
+  - MNRS: 2020 Competitive Undergraduate Research Presenter
 ## Licensure and Certifications
-- Google Data Analytics Professional Certificate								       		
-- Arizona, Michigan, and Washington RN License	 			        		
+- Google Data Analytics Professional Certificate
+- Arizona, Michigan, and Washington RN License
 - ACLS, BLS, NIHSS
 ## Awards
 - Glenn A. Niemeyer Award
