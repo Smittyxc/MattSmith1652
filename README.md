@@ -5,10 +5,12 @@
 ## Education
 - BSN | Grand Valley State University (_April 2020_)
   - MNRS: 2020 Competitive Undergraduate Research Presenter
+
 ## Licensure and Certifications
 - Google Data Analytics Professional Certificate
 - Arizona, Michigan, and Washington RN License
 - ACLS, BLS, NIHSS
+
 ## Awards
 - Glenn A. Niemeyer Award
   - University-wide award recognizing the top academic and extracurricular performance
