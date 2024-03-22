@@ -11,9 +11,9 @@
 - Arizona, Michigan, and Washington RN License
 - ACLS, BLS, NIHSS
 
-## Awards
+## Awards |
 - Glenn A. Niemeyer Award
-  + University-wide award recognizing the top academic and extracurricular performance
+  - University-wide award recognizing the top academic and extracurricular performance
 - Mary Horan Nursing Scholar Award
 - GVSU Undergraduate Research Scholar
 - GVSU Sustainability Champion Award
