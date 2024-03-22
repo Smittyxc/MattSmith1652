@@ -4,7 +4,7 @@
 
 ## Education
 - BSN | Grand Valley State University (_April 2020_)  
- - MNRS: 2020 Competitive Undergraduate Research Presenter
+  - MNRS: 2020 Competitive Undergraduate Research Presenter
 
 ## Licensure and Certifications
 - Google Data Analytics Professional Certificate
@@ -13,7 +13,7 @@
 
 ## Awards
 - Glenn A. Niemeyer Award
-  - University-wide award recognizing the top academic and extracurricular performance  
+  + University-wide award recognizing the top academic and extracurricular performance
 - Mary Horan Nursing Scholar Award
 - GVSU Undergraduate Research Scholar
 - GVSU Sustainability Champion Award
