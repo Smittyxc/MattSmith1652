@@ -22,14 +22,15 @@
 ## Work Experience
 **Register Nurse at Corewell Health, PCU (_June 2020 - February 2023_)**  
 - Provided individualized nursing care for up to 6 patients on a 22-bed step-down unit, specializing in chronic illness exacerbation and COVID
-- Recorded emerging COVID-19 data using EHR software and participated in enrolling novel COVID-19 management trials  
+- Recorded emerging COVID-19 data using EHR software and participated in enrolling novel COVID-19 management trials
+ 
 **Register Nurse at Multicare, Progressive Care (_March 2023 - January 2024_)**
 - Provided nursing care in a variety of care specialties, including post-surgical, cardiac, progressive care, palliative, and emergency departments
 - Analyzed and identified trends in patient biometrics using EHR software, activating emergency response teams when appropriate
 
 
 ## Projects
-### CMS Value-Based Program Financial and Readmission Rate Analysis
+### CMS Value-Based Programs Financial and Readmission Analysis
 [Source Code](link)
 
 Using data sourced from the Centers for Medicare and Medicaid Services, created a relational database in **MySQL** involving Disproportionate Share Hospital, Hospital Readmission Reduction, and Efficiency and Cost Reduction Program data. Once data was processed to incorporate only facilities using similar CMS reimbursement structures, exploratory data analysis was performed to identify potential trends between readmission rates and financial reimbursement datapoints. Insights from this data-driven approach can be used distinguish poor performing facilities or regions with the intent of further research to bridge these care deficits. Included queries can further narrow the analysis scope by filtering Diagnosis Related Groups, a CMS metric that can reveal trends in specific patient populations
@@ -39,9 +40,9 @@ Using data sourced from the Centers for Medicare and Medicaid Services, created 
 ### West Michigan Cycling Safety Dashboard
 [Excel Workbook](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+With MI Office of Highway Safety Planning collision data, a comprehensive cycling safety dashboard was designed with novel metrics, primarily focusing on West Michigan from 2018-2022. Excel was used to prepare, process, and share data using a variety of functions and features including Vlookup, PivotTables, array formulas, and geographic charts. The exploratory analysis found upticks in collisions at certain times of day and in certain speed zones, as well as identified geographic hotspots using mapping functionality. Similarly, analysis was performed on on impaired drivers and found correlations with hit and run rates. 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/bike1.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
