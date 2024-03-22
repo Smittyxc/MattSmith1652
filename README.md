@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Excel
 
 ## Education
-- BSN | Grand Valley State University (_April 2020_)  
+- BSN - Grand Valley State University (_April 2020_)  
   - MNRS: 2020 Competitive Undergraduate Research Presenter
 
 ## Licensure and Certifications
