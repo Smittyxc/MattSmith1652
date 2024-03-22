@@ -12,18 +12,20 @@
 - ACLS, BLS, NIHSS
 ## Awards
 - Glenn A. Niemeyer Award
-  - University-wide award recognizing top academic and extracurricular performance	 			        - Mary Horan Nursing Scholar Award
+  - University-wide award recognizing the top academic and extracurricular performance
+- Mary Horan Nursing Scholar Award
 - GVSU Undergraduate Research Scholar
 - GVSU Sustainability Champion Award
 
 ## Work Experience
 **Register Nurse at Corewell Health, PCU (_June 2020 - February 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Provided individualized nursing care for up to 6 patients on a 22-bed step-down unit, specializing in chronic illness exacerbation and COVID
+- Recorded emerging COVID-19 data using EHR software and participated in enrolling novel COVID-19 management trials
 
 **Register Nurse at Multicare, Progressive Care (_March 2023 - January 2024_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Provided nursing care in a variety of care specialties, including post-surgical, cardiac, progressive care, palliative, and emergency departments
+- Analyzed and identified trends in patient biometrics using EHR software, activating emergency response teams when appropriate
+
 
 ## Projects
 ### CMS Value-Based Program Financial and Readmission Rate Analysis
@@ -33,7 +35,7 @@ Using data sourced from the Centers for Medicare and Medicaid Services, created 
 
 ![Tableau jpeg](/assets/cms_eer.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### West Michigan Cycling Safety Dashboard
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
