@@ -16,6 +16,7 @@
 - Mary Horan Nursing Scholar Award
 - GVSU Undergraduate Research Scholar
 - GVSU Sustainability Champion Award
+- [TEDxGVSU Presenter](https://www.youtube.com/watch?v=zpAMpxGJCoc)
 
 ## Work Experience
 **Register Nurse at Corewell Health, PCU (_June 2020 - February 2023_)**
@@ -29,14 +30,14 @@
 
 ## Projects
 ### CMS Value-Based Program Financial and Readmission Rate Analysis
-[Publication](link)
+[Source Code](link)
 
 Using data sourced from the Centers for Medicare and Medicaid Services, created a relational database in **MySQL** involving Disproportionate Share Hospital, Hospital Readmission Reduction, and Efficiency and Cost Reduction Program data. Once data was processed to incorporate only facilities using similar CMS reimbursement structures, exploratory data analysis was performed to identify potential trends between readmission rates and financial reimbursement datapoints. Insights from this data-driven approach can be used distinguish poor performing facilities or regions with the intent of further research to bridge these care deficits. Included queries can further narrow the analysis scope by filtering Diagnosis Related Groups, a CMS metric that can reveal trends in specific patient populations
 
-![Tableau jpeg](/assets/cms_eer.png)
+![EER](/assets/cms_eer.png)
 
 ### West Michigan Cycling Safety Dashboard
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Excel Workbook](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
