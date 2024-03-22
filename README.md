@@ -13,7 +13,7 @@
 
 ## Awards
 - Glenn A. Niemeyer Award
-  - University-wide award recognizing the top academic and extracurricular performance
+  - (_University-wide award recognizing the top academic and extracurricular performance_)
 - Mary Horan Nursing Scholar Award
 - GVSU Undergraduate Research Scholar
 - GVSU Sustainability Champion Award
