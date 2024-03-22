@@ -1,6 +1,6 @@
 # Registered Nurse, Data Analyst
 
-#### Technical Skills: SQL, Excel
+  #### Technical Skills: SQL, Excel
 
 ## Education
 - BSN - Grand Valley State University (_April 2020_)  
@@ -20,13 +20,13 @@
 - [TEDxGVSU Presenter](https://www.youtube.com/watch?v=zpAMpxGJCoc)
 
 ## Work Experience
-**Register Nurse at Corewell Health, PCU (_June 2020 - February 2023_)**  
-- Provided individualized nursing care for up to 6 patients on a 22-bed step-down unit, specializing in chronic illness exacerbation and COVID
-- Recorded emerging COVID-19 data using EHR software and participated in enrolling novel COVID-19 management trials
+-**Register Nurse at Corewell Health, PCU (_June 2020 - February 2023_)**  
+  - Provided individualized nursing care for up to 6 patients on a 22-bed step-down unit, specializing in chronic illness exacerbation and COVID
+  - Recorded emerging COVID-19 data using EHR software and participated in enrolling novel COVID-19 management trials
  
-**Register Nurse at Multicare, Progressive Care (_March 2023 - January 2024_)**
-- Provided nursing care in a variety of care specialties, including post-surgical, cardiac, progressive care, palliative, and emergency departments
-- Analyzed and identified trends in patient biometrics using EHR software, activating emergency response teams when appropriate
+-**Register Nurse at Multicare, PCU (_March 2023 - January 2024_)**
+  - Provided nursing care in a variety of care specialties, including post-surgical, cardiac, progressive care, palliative, and emergency departments
+  - Analyzed and identified trends in patient biometrics using EHR software, activating emergency response teams when appropriate
 
 
 ## Projects
