@@ -44,23 +44,6 @@ With MI Office of Highway Safety Planning collision data, a comprehensive cyclin
 
 ![Bike Study](/assets/bike1.png)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. 
-2.
-
-
-- [Data Science Blog](https://medium.com/@shawhin)**Matthew Smith**
-
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi% "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+## Links
+- [Profile](https://github.com/smittyxc)
+- [Email](mailto:mattsmith1652@gmail.com?subject=Hi% "Hi!")
