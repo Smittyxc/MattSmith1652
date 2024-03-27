@@ -38,7 +38,7 @@ Using data sourced from the Centers for Medicare and Medicaid Services, created 
 ![EER](/assets/cms_eer.png)
 
 ### West Michigan Cycling Safety Dashboard
-  [Excel Workbook](https://www.mdpi.com/1424-8220/22/11/4240)
+  [Excel Workbook](cycling_safety)
 
 With MI Office of Highway Safety Planning collision data, a comprehensive cycling safety dashboard was designed with novel metrics, primarily focusing on West Michigan from 2018-2022. Excel was used to prepare, process, and share data using a variety of functions and features including Vlookup, PivotTables, array formulas, and geographic charts. The exploratory analysis found upticks in collisions at certain times of day and in certain speed zones, as well as identified geographic hotspots using mapping functionality. Similarly, analysis was performed on on impaired drivers and found correlations with hit and run rates. 
 
