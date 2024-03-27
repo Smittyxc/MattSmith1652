@@ -1,6 +1,7 @@
 # Michigan Cycling Safety
 
 **Author**: Matt Smith
+
 **Email**: mattsmith1652@gmail.com
 
 ## Introduction
