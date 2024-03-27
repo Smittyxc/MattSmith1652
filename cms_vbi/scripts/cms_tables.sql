@@ -24,7 +24,7 @@ CREATE TABLE cms_dsh_landing (
     cost_per_claim VARCHAR(20),
     avg20_21claims VARCHAR(20)
 );    
-LOAD DATA LOCAL INFILE 'C:/Users/smitt/Desktop/Datasets/SQL Medicare/cms_data_tables/cms_dsh.csv'
+LOAD DATA LOCAL INFILE 'MattSmith1652/cms_vbi/csv/cms_dsh.csv'
 	INTO TABLE cms_dsh_landing
 	FIELDS TERMINATED BY ','
 	ENCLOSED BY '"'
@@ -79,7 +79,7 @@ CREATE TABLE cms_ecr_landing (
     mspb_base VARCHAR(15),
     mspb_perf VARCHAR(15)
 );
-LOAD DATA LOCAL INFILE 'C:/Users/smitt/Desktop/Datasets/SQL Medicare/cms_data_tables/cms_ecr.csv'
+LOAD DATA LOCAL INFILE 'MattSmith1652/cms_vbi/csv/cms_ecr.csv'
 	INTO TABLE cms_ecr_landing
 	FIELDS TERMINATED BY ','
 	ENCLOSED BY '"'
@@ -126,7 +126,7 @@ CREATE TABLE cms_hrrp_landing (
     expected_rr VARCHAR(7),
     readm_count VARCHAR(18)
 );
-LOAD DATA LOCAL INFILE 'C:/Users/smitt/Desktop/Datasets/SQL Medicare/cms_data_tables/cms_hrrp.csv'
+LOAD DATA LOCAL INFILE 'MattSmith1652/cms_vbi/csv/hrrp.csv'
 	INTO TABLE cms_hrrp_landing
 	FIELDS TERMINATED BY ','
 	ENCLOSED BY '"'
