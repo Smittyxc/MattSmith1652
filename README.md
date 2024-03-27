@@ -31,7 +31,7 @@
 
 ## Projects
 ### CMS Value-Based Programs Financial and Readmission Analysis
-  [Source Code](link)
+  [Source Code](cms_vbi)
 
 Using data sourced from the Centers for Medicare and Medicaid Services, created a relational database in **MySQL** involving Disproportionate Share Hospital, Hospital Readmission Reduction, and Efficiency and Cost Reduction Program data. Once data was processed to incorporate only facilities using similar CMS reimbursement structures, exploratory data analysis was performed to identify potential trends between readmission rates and financial reimbursement datapoints. Insights from this data-driven approach can be used distinguish poor performing facilities or regions with the intent of further research to bridge these care deficits. Included queries can further narrow the analysis scope by filtering Diagnosis Related Groups, a CMS metric that can reveal trends in specific patient populations
 
