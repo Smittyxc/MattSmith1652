@@ -31,14 +31,14 @@
 
 ## Projects
 ### CMS Value-Based Programs Financial and Readmission Analysis
-  [Source Code](cms_vbi)
+  [Source Code]([cms_vbi](https://github.com/Smittyxc/MattSmith1652/tree/a609b8667328966680cbe7f1274c1412762fb8a7/cms_vbi)
 
 Using data sourced from the Centers for Medicare and Medicaid Services, created a relational database in **MySQL** involving Disproportionate Share Hospital, Hospital Readmission Reduction, and Efficiency and Cost Reduction Program data. Once data was processed to incorporate only facilities using similar CMS reimbursement structures, exploratory data analysis was performed to identify potential trends between readmission rates and financial reimbursement datapoints. Insights from this data-driven approach can be used distinguish poor performing facilities or regions with the intent of further research to bridge these care deficits. Included queries can further narrow the analysis scope by filtering Diagnosis Related Groups, a CMS metric that can reveal trends in specific patient populations
 
 ![EER](/assets/cms_eer.png)
 
 ### West Michigan Cycling Safety Dashboard
-  [Excel Workbook](cycling_safety)
+  [Excel Workbook]([cycling_safety](https://github.com/Smittyxc/MattSmith1652/tree/a609b8667328966680cbe7f1274c1412762fb8a7/cycling_safety)
 
 With MI Office of Highway Safety Planning collision data, a comprehensive cycling safety dashboard was designed with novel metrics, primarily focusing on West Michigan from 2018-2022. Excel was used to prepare, process, and share data using a variety of functions and features including Vlookup, PivotTables, array formulas, and geographic charts. The exploratory analysis found upticks in collisions at certain times of day and in certain speed zones, as well as identified geographic hotspots using mapping functionality. Similarly, analysis was performed on on impaired drivers and found correlations with hit and run rates. 
 
