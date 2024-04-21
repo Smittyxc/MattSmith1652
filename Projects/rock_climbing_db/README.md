@@ -1,4 +1,4 @@
-# Rock Climbing Scraper and Database
+# Rock Climbing Scraper and MySQL Database
 
 - **Author**: Matthew Smith
 
