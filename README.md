@@ -1,7 +1,19 @@
 # Registered Nurse, Data Analyst
+Multi-specialized registered nurse with a comprehensive understanding of health care metrics, data, and quality improvement. Enthusiastic to leverage eight years of health care knowledge within an analyst role, utilizing a strong proficiency in SQL, Python, Pandas, and Tableau. Expertise in disseminating complex and time-sensitive medical data and interventions to a variety of stakeholders and patients.
 
-####     Technical Skills: SQL, Excel
+###     Technical Skills: SQL, Python, Pandas, Tableau, Excel
 
+## Work Experience
+- **Registered Nurse at Multicare, PCU (_March 2023 - January 2024_)**
+  - Engaged in multiple quality improvement initiatives utilizing Kaizen and Lean methodologies, improving key reportable CMS metrics
+  -	Provided nursing care in a variety of care specialties, including post-surgical, cardiac, progressive care, palliative, and emergency departments
+  -	Analyzed and identified trends in patient biometrics using EHR software, activating emergency response teams when appropriate
+
+- **Registered Nurse at Corewell Health, PCU (_June 2020 - February 2023_)**  
+  -	Documented emerging COVID-19 data using EPIC software for use in clinical trials
+  - Participated in enrolling multiple novel and data-driven COVID-19 quality improvement measures
+	- Provided individualized nursing care for up to 6 patients on a 22-bed step-down unit, specializing in chronic illness exacerbation and COVID-19
+ 
 ## Education
 - BSN - Grand Valley State University (_April 2020_)  
   - MNRS: 2020 Competitive Undergraduate Research Presenter
@@ -12,24 +24,15 @@
 - ACLS, BLS, NIHSS
 
 ## Awards
+- [TEDxGVSU Presenter](https://www.youtube.com/watch?v=zpAMpxGJCoc)
 - Glenn A. Niemeyer Award
   - (_University-wide award recognizing the top academic and extracurricular performance_)
 - Mary Horan Nursing Scholar Award
 - GVSU Undergraduate Research Scholar
 - GVSU Sustainability Champion Award
-- [TEDxGVSU Presenter](https://www.youtube.com/watch?v=zpAMpxGJCoc)
+---
 
-## Work Experience
-- **Registered Nurse at Corewell Health, PCU (_June 2020 - February 2023_)**  
-  - Provided individualized nursing care for up to 6 patients on a 22-bed step-down unit, specializing in chronic illness exacerbation and COVID
-  - Recorded emerging COVID-19 data using EHR software and participated in enrolling novel COVID-19 management trials
- 
-- **Registered Nurse at Multicare, PCU (_March 2023 - January 2024_)**
-  - Provided nursing care in a variety of care specialties, including post-surgical, cardiac, progressive care, palliative, and emergency departments
-  - Analyzed and identified trends in patient biometrics using EHR software, activating emergency response teams when appropriate
-
-
-## Projects
+# Projects
 ### CMS Value-Based Programs Financial and Readmission Analysis
 - [Source Code](https://github.com/Smittyxc/MattSmith1652/tree/a609b8667328966680cbe7f1274c1412762fb8a7/cms_vbi)
 
