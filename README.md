@@ -30,6 +30,7 @@ Multi-specialized registered nurse with a comprehensive understanding of health 
 - Mary Horan Nursing Scholar Award
 - GVSU Undergraduate Research Scholar
 - GVSU Sustainability Champion Award
+
 ---
 
 # Projects
@@ -43,7 +44,7 @@ Using data sourced from the Centers for Medicare and Medicaid Services, created 
 ### Rocking Climbing Python Web Scraper and MySQL Database
 - [Source Code](https://github.com/Smittyxc/MattSmith1652/tree/main/Projects/rock_climbing_db)
 
-Comprised of two Python scripts, get_mpareas.py gathers data from [Mountain Project](https://www.mountainproject.com/), a user-driven repository of rock climbing routes, using BS4. The script reads from area_codes.txt, which is a set of nine digit area identifiers from Mountain Project comprised of areas the user wishes to explore. The script also cleans data to be stored in .csv files in the \areas folder (must be in the same directory), which csv_to_mysql.py reads and imports into a corresponding MySQL database it has created. Future users will need to add login details to their local MySQL instance. 
+[Mountain Project](https://www.mountainproject.com/) is a user-driven repository of rock climbing routes worldwide, containing information on route's difficulty, rating, popularity, subarea, and more. This project uses BS4 to gather route data grouped by climbing area from Mountain Project, which is stored in a CSV file. The file is then imported into a MySQL database with MySQL Connector. Each area is contained within its own table that can be queried to identify trends at specific areas.
 
 ## Entity Relationship Diagram
 ![eer](/assets/climbing_eer.png)
