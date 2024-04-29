@@ -1,4 +1,4 @@
-# Registered Nurse, Data Analyst
+# Registered Nurse - Data-Driven Quality Improvement
 Multi-specialized registered nurse with a comprehensive understanding of health care metrics, data, and quality improvement. Enthusiastic to leverage eight years of health care knowledge within an analyst role, utilizing a strong proficiency in SQL, Python, Pandas, and Tableau. Expertise in disseminating complex and time-sensitive medical data and interventions to a variety of stakeholders and patients.
 
 ###     Technical Skills: SQL, Python, Pandas, Tableau, Excel
@@ -39,6 +39,14 @@ Multi-specialized registered nurse with a comprehensive understanding of health 
 Using data sourced from the Centers for Medicare and Medicaid Services, created a relational database in **MySQL** involving Disproportionate Share Hospital, Hospital Readmission Reduction, and Efficiency and Cost Reduction Program data. Once data was processed to incorporate only facilities using similar CMS reimbursement structures, exploratory data analysis was performed to identify potential trends between readmission rates and financial reimbursement datapoints. Insights from this data-driven approach can be used distinguish poor performing facilities or regions with the intent of further research to bridge these care deficits. Included queries can further narrow the analysis scope by filtering Diagnosis Related Groups, a CMS metric that can reveal trends in specific patient populations
 
 ![EER](/assets/cms_eer.png)
+
+### Rocking Climbing Python Web Scraper and MySQL Database
+- [Source Code](https://github.com/Smittyxc/MattSmith1652/tree/main/Projects/rock_climbing_db)
+
+Comprised of two Python scripts, get_mpareas.py gathers data from [Mountain Project](https://www.mountainproject.com/), a user-driven repository of rock climbing routes, using BS4. The script reads from area_codes.txt, which is a set of nine digit area identifiers from Mountain Project comprised of areas the user wishes to explore. The script also cleans data to be stored in .csv files in the \areas folder (must be in the same directory), which csv_to_mysql.py reads and imports into a corresponding MySQL database it has created. Future users will need to add login details to their local MySQL instance. 
+
+## Entity Relationship Diagram
+![eer](/assets/climbing_eer.png)
 
 ### West Michigan Cycling Safety Dashboard
 - [Excel Workbook](https://github.com/Smittyxc/MattSmith1652/tree/a609b8667328966680cbe7f1274c1412762fb8a7/cycling_safety)
