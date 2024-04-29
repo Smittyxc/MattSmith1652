@@ -1,4 +1,4 @@
-# Registered Nurse: Data-Driven Quality Improvement
+# Registered Nurse - Quality Improvement
 Multi-specialized registered nurse with a comprehensive understanding of health care metrics, data, and quality improvement. Enthusiastic to leverage eight years of health care knowledge within an analyst role, utilizing a strong proficiency in SQL, Python, Pandas, and Tableau. Expertise in disseminating complex and time-sensitive medical data and interventions to a variety of stakeholders and patients.
 
 ###     Technical Skills: SQL, Python, Pandas, Tableau, Excel
@@ -42,7 +42,7 @@ Using data sourced from the Centers for Medicare and Medicaid Services, created 
 ![EER](/assets/cms_eer.png)
 
 ## Rocking Climbing Python Web Scraper and MySQL Database
-- [Source Code](https://github.com/Smittyxc/rock-climbing-mysql-database)
+- [Repo](https://github.com/Smittyxc/rock-climbing-mysql-database)
 
 [Mountain Project](https://www.mountainproject.com/) is a user-driven repository of rock climbing routes worldwide, containing information on route's difficulty, rating, popularity, subarea, and more. This project uses BS4 to gather route data grouped by climbing area from Mountain Project, which is stored in a CSV file. The file is then imported into a MySQL database with MySQL Connector. Each area is contained within its own table that can be queried to identify trends at specific areas.
 
