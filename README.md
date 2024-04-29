@@ -1,4 +1,4 @@
-# Registered Nurse - Data-Driven Quality Improvement
+# Registered Nurse: Data-Driven Quality Improvement
 Multi-specialized registered nurse with a comprehensive understanding of health care metrics, data, and quality improvement. Enthusiastic to leverage eight years of health care knowledge within an analyst role, utilizing a strong proficiency in SQL, Python, Pandas, and Tableau. Expertise in disseminating complex and time-sensitive medical data and interventions to a variety of stakeholders and patients.
 
 ###     Technical Skills: SQL, Python, Pandas, Tableau, Excel
