@@ -1,5 +1,7 @@
 title: Matthew Smith
 logo: /assets/head1.png
-description: "    Resume and Portfolio"
+email: mattsmith1652@gmail.com
+# email_title: Email (Email title override)
+phone: 616-334-3404
 show_downloads: false
 theme: jekyll-theme-minimal
