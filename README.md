@@ -34,6 +34,13 @@ Multi-specialized registered nurse with a comprehensive understanding of health 
 ---
 
 # Projects
+## Health Care Quality and Inclusivity Notebook
+- [Repo](https://github.com/Smittyxc/health-care-equality-notebook)
+
+As the health care industry continue to grow at an immense rate, it is paramount to ensure that safe, effective, and inclusive care is being provided to improve health outcomes of all populations. The [Lown Institute Hospital Index](https://lownhospitalsindex.org/rankings/) is a dataset which seeks to do this through the ranking of US hospitals on over 50 benchmarks. The Index highlights exceptionally performing hospitals, in addition to facilities performing beneath national averages. Details of the data set, as well as exclusion criteria, can be seen [here](https://lownhospitalsindex.org/about/faqs/). In particular, this **Jupyter notebook** will explore the Lown Index and investigate possible relationships between hospitals' attributes and their performance on Lown benchmarks using **Pandas, matplotlib, and hvplot**.
+
+![EER](/assets/ceo_plot)
+
 ## CMS Value-Based Programs Financial and Readmission Analysis
 - [Repo](https://github.com/Smittyxc/sql-cms-database)
 
